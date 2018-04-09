@@ -50,10 +50,10 @@ module.exports.connections = {
 
   someMysqlloc: {
     adapter: 'sails-mysql',
-    host: 'localhost',
-    user: 'root', //optional
-    password: '', //optional
-    database: 'vollage' //optional
+    host: '192.169.82.14',
+    user: 'procomco_vollage', //optional
+    password: 'fypVollage', //optional
+    database: 'procomco_vollage' //optional
   },
 
   /***************************************************************************
